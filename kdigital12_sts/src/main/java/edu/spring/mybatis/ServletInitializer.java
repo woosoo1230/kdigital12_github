@@ -1,4 +1,4 @@
-package edu.spring.naverserver;
+package edu.spring.mybatis;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

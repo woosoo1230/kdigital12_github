@@ -1,4 +1,4 @@
-package edu.spring.naverserver;
+package edu.spring.mybatis;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

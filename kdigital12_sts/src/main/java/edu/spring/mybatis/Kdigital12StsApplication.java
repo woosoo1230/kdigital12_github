@@ -1,4 +1,4 @@
-package edu.spring.naverserver;
+package edu.spring.mybatis;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
